@@ -1,0 +1,14 @@
+{
+  "name": "product-card",
+  "version": "1.0.0",
+  "description": "youla",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alisa Novikova",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
